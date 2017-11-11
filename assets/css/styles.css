@@ -273,6 +273,22 @@ p {
     margin-bottom: 15px;
 }
 
+.notification {
+    background: #42A8C0;
+    color: #fff;
+    display: block;
+    padding: 5px 10px;
+    width: 100%;
+}
+
+.notification p {
+    margin: 0;
+}
+
+.notification p a {
+    color: #fff;
+}
+
 .skillset .item {
     margin-bottom: 15px;
     overflow: hidden;
